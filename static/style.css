@@ -1,0 +1,39 @@
+form{
+    text-align: center;
+    align-items: center;
+    justify-content: center;
+}
+body{
+    height: auto;
+    width: 100vh;
+    background-color: skyblue;
+}
+.container{
+    justify-content: center;
+    align-items: center;
+    width: 150vh;
+    border: solid;
+    justify-self: center;
+    margin: 100px;
+    margin-left: 700px;
+    border-radius: 20px;
+    background-color: aqua;
+}
+h1{
+    text-align: center;
+}
+input{
+    margin: 10px;
+    padding: 5px;
+}
+label{
+    font-size: 30px;
+}
+button{
+    margin: 20px;
+    padding: 15px;
+    border-radius: 10px;
+    background-color: blue;
+    color: white;
+    cursor: pointer;
+}
